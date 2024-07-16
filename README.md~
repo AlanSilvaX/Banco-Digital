@@ -1,0 +1,14 @@
+## Banco-Digital
+Vamos criar uma solução Orientada a Objetos em Java para um banco que oferece aos seus clientes contas corrente e poupança, com funcionalidades de depósito, saque e transferência entre contas do mesmo banco.
+
+# Abstração:
+Consiste em focar nos aspectos mais importantes de um domínio, deixando de lado características menos relevantes. Neste cenário, os objetos representam entidades do mundo real de forma simplificada.
+
+# Encapsulamento:
+Envolve esconder a implementação dos objetos, criando interfaces de uso mais claras e simplificadas. O encapsulamento ajuda na manutenção e evolução de um sistema.
+
+# Herança:
+Permite criar uma classe filha que herda, estende ou modifica o comportamento de uma classe pai. A classe base fornece os membros que podem ser herdados pelas classes derivadas.
+
+# Polimorfismo:
+Refere-se à capacidade de um objeto ser referenciado de diferentes formas, tratando objetos de classes específicas como objetos de uma classe genérica. O polimorfismo não altera o objeto em si, apenas a forma como nos referimos a ele.
